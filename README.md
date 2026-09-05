@@ -43,6 +43,9 @@ Estimated space you could reclaim: 475.9 MB
 This was a dry run — nothing was deleted. Re-run with --clean to remove these.
 ```
 
+## Screenshot
+<img width="759" height="426" alt="Screenshot 2026-09-05 184724" src="https://github.com/user-attachments/assets/c89b2592-e6c7-462d-8cbb-a75b142f8a60" />
+
 ## Getting started
 
 **Requirements:** Node.js 18+ and Docker Desktop (or another Docker engine)
