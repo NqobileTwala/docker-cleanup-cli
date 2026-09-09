@@ -2,7 +2,7 @@
 
 A command-line tool that scans your local Docker setup and tells you exactly
 how much disk space you could reclaim by removing unused images, stopped
-containers, and orphaned volumes — before you delete anything.
+containers, and orphaned volumes, before you delete anything.
 
 ## Why I built this
 
